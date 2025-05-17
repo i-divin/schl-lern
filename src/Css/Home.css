@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.Home{
+    border-radius: 10px;
+    
+}
+.home-main{
+    display:flex;
+    font-size: 20px;
+    border-radius: 9px;
+}
